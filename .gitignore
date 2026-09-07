@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+frontend/node_modules/
+frontend/.env.local
+vector_store/
+vector_store.backup-*/
+.freebuff/
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+training/output/
